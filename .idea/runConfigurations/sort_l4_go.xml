@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sort_l4.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="GO1-Lessons" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="DIRECTORY" />
+    <directory value="$PROJECT_DIR$/Lesson 4" />
+    <filePath value="$PROJECT_DIR$/../GO1-Lessons|$PROJECT_DIR$/sort_l4.go|$PROJECT_DIR$/sort_l4.go|$PROJECT_DIR$/sort_l4.go" />
+    <method v="2" />
+  </configuration>
+</component>
